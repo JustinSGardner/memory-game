@@ -12,7 +12,7 @@ class MemoryCard extends Component {
             <div className='MemoryCard' onClick={ this.props.pickCard }>
                 <div className={memoryCardInnerClass}>
                     <div className='MemoryCardBack'>
-                        <img className="" />
+                        
                     </div>
                     <div className='MemoryCardFront'></div>
                     {this.props.symbol}
