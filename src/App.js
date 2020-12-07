@@ -7,8 +7,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Memory Game</h1>
-          <h3 className="Subtitle">Match cards to win</h3>
+        <h1>Hello Preston</h1>
+          <h3 className="Subtitle">Match cards to win!</h3>
       </header>
         <div>
           <MemoryCard />
